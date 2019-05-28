@@ -9,12 +9,12 @@
         "MONGODB_HOST": {
           "description": "MongoDB host",
           "required" : true,
-          "value":""
+          "value":"localhost"
         },
         "MONGODB_PORT": {
           "description": "MongoDB port",
           "required" : true,
-          "value":""
+          "value":"27017"
         }
     }
 }
